@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/marty/Documents/projects/C#/10-days-C#/Day3/Day3.csproj": {}
+  },
+  "projects": {
+    "/home/marty/Documents/projects/C#/10-days-C#/Day3/Day3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/marty/Documents/projects/C#/10-days-C#/Day3/Day3.csproj",
+        "projectName": "Day3",
+        "projectPath": "/home/marty/Documents/projects/C#/10-days-C#/Day3/Day3.csproj",
+        "packagesPath": "/home/marty/.nuget/packages/",
+        "outputPath": "/home/marty/Documents/projects/C#/10-days-C#/Day3/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/marty/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

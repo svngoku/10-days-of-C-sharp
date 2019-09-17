@@ -1,0 +1,11 @@
+/home/marty/Documents/projects/C#/10-days-C#/Day3/obj/Debug/netcoreapp2.2/Day3.csprojAssemblyReference.cache
+/home/marty/Documents/projects/C#/10-days-C#/Day3/obj/Debug/netcoreapp2.2/Day3.csproj.CoreCompileInputs.cache
+/home/marty/Documents/projects/C#/10-days-C#/Day3/obj/Debug/netcoreapp2.2/Day3.AssemblyInfoInputs.cache
+/home/marty/Documents/projects/C#/10-days-C#/Day3/obj/Debug/netcoreapp2.2/Day3.AssemblyInfo.cs
+/home/marty/Documents/projects/C#/10-days-C#/Day3/bin/Debug/netcoreapp2.2/Day3.deps.json
+/home/marty/Documents/projects/C#/10-days-C#/Day3/bin/Debug/netcoreapp2.2/Day3.runtimeconfig.json
+/home/marty/Documents/projects/C#/10-days-C#/Day3/bin/Debug/netcoreapp2.2/Day3.runtimeconfig.dev.json
+/home/marty/Documents/projects/C#/10-days-C#/Day3/bin/Debug/netcoreapp2.2/Day3.dll
+/home/marty/Documents/projects/C#/10-days-C#/Day3/bin/Debug/netcoreapp2.2/Day3.pdb
+/home/marty/Documents/projects/C#/10-days-C#/Day3/obj/Debug/netcoreapp2.2/Day3.dll
+/home/marty/Documents/projects/C#/10-days-C#/Day3/obj/Debug/netcoreapp2.2/Day3.pdb
