@@ -9,3 +9,14 @@
 /home/marty/Documents/projects/C#/30-days-C#/Day2/bin/Debug/netcoreapp2.2/Day2.pdb
 /home/marty/Documents/projects/C#/30-days-C#/Day2/obj/Debug/netcoreapp2.2/Day2.dll
 /home/marty/Documents/projects/C#/30-days-C#/Day2/obj/Debug/netcoreapp2.2/Day2.pdb
+/home/marty/Documents/projects/C#/10-days-C#/Day2/obj/Debug/netcoreapp2.2/Day2.csprojAssemblyReference.cache
+/home/marty/Documents/projects/C#/10-days-C#/Day2/obj/Debug/netcoreapp2.2/Day2.csproj.CoreCompileInputs.cache
+/home/marty/Documents/projects/C#/10-days-C#/Day2/obj/Debug/netcoreapp2.2/Day2.AssemblyInfoInputs.cache
+/home/marty/Documents/projects/C#/10-days-C#/Day2/obj/Debug/netcoreapp2.2/Day2.AssemblyInfo.cs
+/home/marty/Documents/projects/C#/10-days-C#/Day2/obj/Debug/netcoreapp2.2/Day2.dll
+/home/marty/Documents/projects/C#/10-days-C#/Day2/obj/Debug/netcoreapp2.2/Day2.pdb
+/home/marty/Documents/projects/C#/10-days-C#/Day2/bin/Debug/netcoreapp2.2/Day2.deps.json
+/home/marty/Documents/projects/C#/10-days-C#/Day2/bin/Debug/netcoreapp2.2/Day2.runtimeconfig.json
+/home/marty/Documents/projects/C#/10-days-C#/Day2/bin/Debug/netcoreapp2.2/Day2.runtimeconfig.dev.json
+/home/marty/Documents/projects/C#/10-days-C#/Day2/bin/Debug/netcoreapp2.2/Day2.dll
+/home/marty/Documents/projects/C#/10-days-C#/Day2/bin/Debug/netcoreapp2.2/Day2.pdb

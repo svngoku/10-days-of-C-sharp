@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/marty/Documents/projects/C#/30-days-C#/Day2/Day2.csproj",
+      "projectUniqueName": "/home/marty/Documents/projects/C#/10-days-C#/Day2/Day2.csproj",
       "projectName": "Day2",
-      "projectPath": "/home/marty/Documents/projects/C#/30-days-C#/Day2/Day2.csproj",
+      "projectPath": "/home/marty/Documents/projects/C#/10-days-C#/Day2/Day2.csproj",
       "packagesPath": "/home/marty/.nuget/packages/",
-      "outputPath": "/home/marty/Documents/projects/C#/30-days-C#/Day2/obj/",
+      "outputPath": "/home/marty/Documents/projects/C#/10-days-C#/Day2/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
