@@ -24,12 +24,6 @@ namespace Day2
             this.destination = destination;
             this.quaie = quaie;
         }
-
-        public string getSubway() => $"Name: {name} \nID: {ID}";
-
-        // public string getDestinationByName(string dest) 
-        // {
-        //    //
-        // } 
+        public string getSubway() => $"Name: {name} \nID: {ID}"; 
     }
 }
